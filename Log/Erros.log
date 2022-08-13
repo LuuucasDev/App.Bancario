@@ -1,0 +1,14 @@
+[31/12/2019 13:00:04] - Documento inválido
+[31/12/2019 13:00:35] - CPF Inválido
+[31/12/2019 15:50:16] - Must declare the scalar variable "@C".
+[31/12/2019 15:53:05] - Conversion failed when converting the nvarchar value 'M' to data type int.
+[31/12/2019 15:55:42] - A parameterless default constructor or one matching signature (System.String NumeroDocumento, System.String Nome, System.Int32 Idade, System.String Sexo) is required for Lab.Models.Cliente materialization
+[31/12/2019 18:32:27] - The INSERT statement conflicted with the FOREIGN KEY constraint "FK__TBMovimen__IdCon__03F0984C". The conflict occurred in database "DBAplicacaoBancaria", table "dbo.TBContas", column 'Id'.
+The statement has been terminated.
+[31/12/2019 18:45:56] - Referência de objeto não definida para uma instância de um objeto.
+[31/12/2019 19:05:54] - A cadeia de caracteres de entrada não estava em um formato correto.
+[31/12/2019 19:06:01] - O Limite deve ser positivo
+[31/12/2019 19:06:27] - A sequência não contém elementos
+[31/12/2019 19:09:44] - A sequência não contém elementos
+[31/12/2019 19:11:10] - Invalid column name 'IdConta'.
+Invalid column name 'Saldo'.
