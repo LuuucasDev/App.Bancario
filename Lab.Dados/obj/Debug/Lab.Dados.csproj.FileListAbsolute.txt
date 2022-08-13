@@ -1,0 +1,12 @@
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\bin\Debug\Lab.Dados.dll
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\bin\Debug\Lab.Dados.pdb
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\bin\Debug\Lab.Models.dll
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\bin\Debug\Lab.Interfaces.dll
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\bin\Debug\Lab.Utilitarios.dll
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\bin\Debug\Lab.Models.pdb
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\bin\Debug\Lab.Interfaces.pdb
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\bin\Debug\Lab.Utilitarios.pdb
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\obj\Debug\Lab.Dados.csprojAssemblyReference.cache
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\obj\Debug\Lab.Dados.csproj.CopyComplete
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\obj\Debug\Lab.Dados.dll
+D:\Documentos\Projetos\Impacta\CSharp\Capitulo12.Labs\Lab.Dados\obj\Debug\Lab.Dados.pdb
